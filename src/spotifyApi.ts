@@ -1,5 +1,5 @@
-const clientId = "YOUR_CLIENT_ID";
-const clientSecret = "YOUR_CLIENT_SECRET";
+const clientId = "087e53f9aa33461e964d8f9b11631ea3";
+const clientSecret = "d37a2026430643198592d2a41fb4afef";
 
 // Fetch Spotify Access Token
 export async function getAccessToken(): Promise<string> {
