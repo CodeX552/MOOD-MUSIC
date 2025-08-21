@@ -1,0 +1,23 @@
+{
+    "name": "mood-music",
+    "version": "1.0.0",
+    "private": true,
+    "homepage": "https://CodeX552.github.io/MOOD-MUSIC",
+    "scripts": {
+      "start": "vite",
+      "build": "vite build",
+      "preview": "vite preview",
+      "deploy": "gh-pages -d dist"
+    },
+    "dependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0"
+    },
+    "devDependencies": {
+      "vite": "^5.0.0",
+      "@vitejs/plugin-react": "^4.0.0",
+      "gh-pages": "^6.0.0",
+      "typescript": "^5.0.0"
+    }
+  }
+  
