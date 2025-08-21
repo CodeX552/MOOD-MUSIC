@@ -18,18 +18,11 @@ Select your mood, and the app plays music that matches your vibe 🎶
 
 ---
 
-## 🖼️ Screenshots
-> Replace these with actual screenshots from your app
 
-| Home Page | Mood Selection |
-|-----------|----------------|
-| ![Home](./screenshots/home.png) | ![Mood](./screenshots/mood.png) |
-
----
 
 ## 🛠️ Tech Stack
 - **Frontend**: [React](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/)  
-- **Styling**: TailwindCSS (if used)  
+- **Styling**: TailwindCSS 
 - **Hosting**: [Vercel](https://vercel.com/)  
 
 ---
@@ -47,7 +40,7 @@ cd MOOD-MUSIC
 npm install
 
 # Run locally
-npm run dev
+npm run start
 
 🚀 Deployment
 
