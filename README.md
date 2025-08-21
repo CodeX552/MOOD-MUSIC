@@ -48,3 +48,14 @@ npm install
 
 # Run locally
 npm run dev
+
+🚀 Deployment
+
+This app is deployed on Vercel.
+👉 Live Demo: https://mood-music.vercel.app
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repo and submit a pull request.
+
