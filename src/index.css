@@ -1,8 +1,13 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Optional: Add your custom styles here */
+/* filepath: /Users/prateekgiri/music-mood-app/src/index.css */
 body {
-  @apply bg-gradient-to-b from-purple-800 to-indigo-900 text-white;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
