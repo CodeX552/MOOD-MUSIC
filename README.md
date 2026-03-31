@@ -45,7 +45,7 @@ npm run start
 🚀 Deployment
 
 This app is deployed on Vercel.
-👉 Live Demo: https://mood-music.vercel.app
+👉 Live Demo: [https://mood-music.vercel.app](https://mood-music-five.vercel.app/)
 
 🤝 Contributing
 
